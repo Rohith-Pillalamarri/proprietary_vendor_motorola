@@ -565,7 +565,7 @@ PRODUCT_COPY_FILES += \
 
 # Moto Clock Widget
 PRODUCT_COPY_FILES += \
-    vendor/lenovo/a6010/proprietary/etc/permissions/com.motorola.timeweatherwidget.library.xml:system/etc/permissions/com.motorola.timeweatherwidget.library.xml
+    vendor/motorola/msm8937-common/proprietary/etc/permissions/com.motorola.timeweatherwidget.library.xml:system/etc/permissions/com.motorola.timeweatherwidget.library.xml
 
 PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
