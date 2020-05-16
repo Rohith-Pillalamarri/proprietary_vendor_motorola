@@ -137,7 +137,7 @@ include $(BUILD_PREBUILT)
 include $(CLEAR_VARS)
 LOCAL_MODULE := com.motorola.timeweatherwidget.library
 LOCAL_MODULE_OWNER := motorola
-LOCAL_SRC_FILES := proprietary/system/framework/com.motorola.timeweatherwidget.library.jar
+LOCAL_SRC_FILES := proprietary/framework/com.motorola.timeweatherwidget.library.jar
 LOCAL_CERTIFICATE := platform
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := JAVA_LIBRARIES
